@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "boolshapes"
+version = "1.0.0"
+name = "BoolShapes"
+tagline = "Boolean shape library with quick boolean operations"
+maintainer = "plainprince"
+type = "add-on"
+
+tags = ["Mesh", "Modeling"]
+
+blender_version_min = "5.0.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
